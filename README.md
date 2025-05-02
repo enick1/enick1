@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enick1 (Nick Ekanger, Virginia Tech graduate student)
+- 👋 Hi, I’m @enick1 (Nick Ekanger, Tohoku University Post doc)
 - 👀 I’m interested in astrophysics! UHECRs, nucleosynthesis, DSNB
 - 🌱 I’m currently learning everything
 - 📫 Email: enick1@vt.edu
